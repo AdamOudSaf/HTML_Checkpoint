@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+ul{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    background: #000;
+    width: 100%;
+}
+
+ul >.about{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+.container>h1{
+    color: brown;
+    font-family: 'Roboto', sans-serif;
+    font-weight:200 ;
+    font-style: italic;
+    font-size: 100px;
+    text-decoration: underline dotted;
+    letter-spacing: 5px ;
+    
+}
+
+.container>h1:hover{
+    color: blue;
+}
+
+.home{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+.page{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+.line{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+ul>.work{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+ul>.contact{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+ul>.cv{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+ul>.index{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
+
+ul>.resume{
+    width: fit-content;
+    border: 5px black solid;
+    background-color: black;
+    padding: 10px 5px;
+    margin: 10px 50px;
+}
